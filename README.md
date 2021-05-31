@@ -1,1 +1,2 @@
-# s-ingshot
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
